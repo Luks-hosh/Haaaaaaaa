@@ -1,0 +1,36 @@
+------------POST-----------
+http://127.0.0.1:5000/Carro
+---------------------------
+
+Body - raw - JSON
+
+video_game{
+   'marca': "Playstation",      
+    'ano': "2020",           
+    'preço': "4500",
+    'modelo': "fat"
+}
+boneco{
+   'marca': "Funko Pop",      
+   'ano': "2025",           
+   'preço': "178"
+}
+placa de video{
+  'modelo': " Geforce RTX 5060Ti",  
+  'ano': "2025",           
+  'preço': "6147",
+  'marca': "Nvidia",
+}
+fone de ouvido{
+  'marca':"Knowledge Zenith"
+  'modelo': "Kz EDX pro",    
+  'ano': "2022",           
+  'preço': "38"
+}
+carro{
+  'modelo': Supra MK4 ,   =
+  'ano': "1993",         =
+  'preço': "800000,
+  'cor': "laranja",
+  'marca': "Toyota"
+}
